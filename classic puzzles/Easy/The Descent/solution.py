@@ -1,3 +1,14 @@
+"""
+******************************************
+#                                        #
+# Codingame solutions by Punit-Choudhary #
+#                                        #
+# Puzzle : The Descent                   #
+# Difficulty : Easy                      #
+# Topic : Loops                          #
+#                                        #
+******************************************
+"""
 import sys
 
 while True:
